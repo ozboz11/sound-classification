@@ -18,3 +18,4 @@ Bu proje, ses verilerinden **duyguyu tahmin etmek** için geliştirilmiştir. Se
 ---
 
 ## 🖼️ Örnek Spektrogram
+![bd04c4a6-2be4-4e31-a5f6-433950e99f94](https://github.com/user-attachments/assets/979b4b8d-1440-46bc-b5ec-376ce68353eb)
