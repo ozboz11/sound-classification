@@ -1,4 +1,4 @@
-# 🎧 Ses Duygu Sınıflandırma Projesi
+# 🎧 Ses Duygu Sınıflandırma 
 
 Bu proje, ses verilerinden **duyguyu tahmin etmek** için geliştirilmiştir. Sesler önce **spektrogram** formatına dönüştürülür, ardından **önceden eğitilmiş bir ResNet modeli** kullanılarak 3 duygu sınıfından biri tahmin edilir:
 
